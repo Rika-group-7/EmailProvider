@@ -2,8 +2,7 @@
   "profiles": {
     "EmailProvider": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7031",
-      "launchBrowser": false
+      "commandLineArgs": "--port 7031 --verbose"
     }
   }
 }
